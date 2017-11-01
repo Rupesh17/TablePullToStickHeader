@@ -1,4 +1,5 @@
-# TablePullToStickHeader. TableView header scrolling with pull to stick design.
+
+TabableView header scrolling with pull to stick style:
 
 
 
